@@ -7,6 +7,16 @@ export default function App() {
     { text: "Success is not final, failure is not fatal: it is the courage to continue that counts.", author: "Winston Churchill" },
     { text: "Happiness is not something ready made. It comes from your own actions.", author: "Dalai Lama" },
     { text: "Don’t let yesterday take up too much of today.", author: "Will Rogers" },
+    { text: "In the middle of every difficulty lies opportunity.", author: "Albert Einstein" },
+    { text: "Act as if what you do makes a difference. It does.", author: "William James" },
+    { text: "It always seems impossible until it’s done.", author: "Nelson Mandela" },
+    { text: "Turn your wounds into wisdom.", author: "Oprah Winfrey" },
+    { text: "Everything you can imagine is real.", author: "Pablo Picasso" },
+    { text: "Keep your face always toward the sunshine—and shadows will fall behind you.", author: "Walt Whitman" },
+    { text: "Do what makes your soul shine.", author: "Unknown" },
+    { text: "Dream big and dare to fail.", author: "Norman Vaughan" },
+    { text: "Fall seven times and stand up eight.", author: "Japanese Proverb" },
+    { text: "Little by little, one travels far.", author: "J.R.R. Tolkien" }
   ];
 
   const colors = ["#16a085", "#2980b9", "#8e44ad", "#d35400", "#2c3e50"];
